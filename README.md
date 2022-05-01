@@ -2,7 +2,7 @@
 - 👀 I’m interested in so many things that I can't keep them all straight.
 - 🌱 I’m currently learning new tech.
 - 💞️ I’m looking to collaborate on whatever I can assist with.
-- 📫 You can reach me at slipperywhenwet80@outlook.com
+- 📫 You can reach me at https://www.GitHub.com/Rockon21
 
 <!---
 Rockon21/Rockon21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
